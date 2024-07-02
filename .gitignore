@@ -1,0 +1,7 @@
+.DS_Store
+*.pyc
+to-uninstall.txt
+.hypothesis/
+.pytest_cache/
+chroma/
+.env

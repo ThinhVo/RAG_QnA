@@ -1,0 +1,6 @@
+.git
+.gitignore
+.cache
+.ipynb_checkpoints
+*.ipynb
+*.pdf

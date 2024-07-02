@@ -1,0 +1,12 @@
+numpy==1.26.3
+pandas==2.1.4
+matplotlib==3.8.2
+tiktoken==0.5.2
+openai==1.6.1
+Flask==3.0.0
+streamlit==1.29.0
+chromadb==0.4.2
+pytest
+langchain
+PyPDF2
+scikit-learn
