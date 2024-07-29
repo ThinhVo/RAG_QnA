@@ -10,3 +10,5 @@ pytest
 langchain
 PyPDF2
 scikit-learn
+langchain-community
+langchain-core
